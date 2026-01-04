@@ -1,0 +1,12 @@
+input:user-valid {
+    border-color: var(--bs-green);
+}
+
+input:user-invalid {
+    border-color: var(--bs-red);
+}
+
+body {
+    background-image: url('/assets/img/adobestock-1205443701.jpeg');
+    background-size: cover;
+}
